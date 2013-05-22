@@ -1,15 +1,16 @@
-Simple example in the client using jison.
-Uses jquery. Be sure you modify "main.js" so
-that "jquery.js" is found.
+Ejemplo simple de lenguaje para representación musical de notas.
 
-run "rake" to produce "calculator.js"
+Se incorpora un intérprete en Java para representar la música y escuchar las canciones.
 
-Contents of ~/bin/jsbeautify:
+Lenguajes usados: Jison, javascript, Java.
 
-node ~/node_modules/beautifier/bin/beautifier.js $1
+Procesadores de Lenguajes
+ETSII Universidad de La Laguna
 
-install package:
-  sudo npm install beautifier
+Oliver Valido Ramos
 
-  more about beautifier:
-  https://github.com/rickeyski/node-beautifier
+Raúl Marrero Rodríguez
+
+Francisco Nebrera Perdomo
+
+Anup Dialani Dialani
