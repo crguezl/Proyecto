@@ -1,6 +1,6 @@
 #!/bin/bash
-extencion=`echo $1 | cut -d'.' -f2`
-if [ "$extencion" == jm ]
+extension=`echo $1 | cut -d'.' -f2`
+if [ "$extension" == jm ]
   then
     if [ "$2" == -o ]  #permitimos modficador -o para que ele ejcutable tenga el nombre que quiera el usuario
     then
